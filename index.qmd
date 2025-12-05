@@ -1,3 +1,18 @@
 ---
 title: "Christopher Le"
+
+image: chris.jpg
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+  links:
+    - text: Research Gate
+      icon: google
+      url: "https://www.researchgate.net/profile/Christopher-Le-15"
+    - text: Email
+      icon: inbox
+      url: "mailto:ichrisle2004@gmail.com"
 ---
+
+hello
