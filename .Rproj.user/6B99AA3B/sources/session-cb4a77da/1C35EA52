@@ -3,9 +3,9 @@
     "path": "~/Desktop/personal-website/_publish.yml",
     "project_path": "_publish.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "849279695",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1764900243094.0,
     "source_on_save": false,
     "relative_order": 5,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1764900067,
+    "lastKnownWriteTime": 1764901240,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1764900253047,
+    "last_content_update": 1764901240867,
     "read_only": false,
     "read_only_alternatives": []
 }
