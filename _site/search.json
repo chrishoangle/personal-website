@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 3\n\n[1] 4\n\n\n\nrunif(20)\n\n [1] 0.6513236 0.4787772 0.2537077 0.3210670 0.6603959 0.3386226 0.6305702\n [8] 0.4807919 0.7776896 0.4661959 0.5105418 0.7536370 0.6462252 0.4951655\n[15] 0.1171472 0.2759735 0.6517364 0.7897387 0.7174350 0.3427283"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Christopher Le",
     "section": "",
-    "text": "Hello everyone! I’m Christopher Le, a UCLA senior graduating Spring 2026 with Physics (B.S.), Applied Mathematics (B.S.), and Statistics (B.S.). I am also pursuing two minors in Film, Television & Digital Media as well as Atmospheric & Oceanic Sciences.\nI build data‑driven models and tools at the intersection of inference and physical systems, with interests in aerospace and sustainability. In my free time, I enjoy exploring local city spots, embarking on solo travel, and attending indie music concerts, where I have the creative freedom to connect socially with people from diverse backgrounds and interests.\nDOWNLOAD RESUME"
+    "text": "Hello everyone! I’m Christopher Le, a UCLA senior graduating Spring 2026. I build data‑driven models and tools at the intersection of inference and physical systems, with interests in aerospace and sustainability. In my free time, I enjoy exploring local city spots, embarking on solo travel, and attending indie music concerts, where I have the creative freedom to connect socially with people from diverse backgrounds and interests.\nCheck out my resume here!"
   },
   {
     "objectID": "index.html#education",
@@ -26,5 +19,110 @@
     "title": "Christopher Le",
     "section": "Experience",
     "text": "Experience\nNASA JPL | Telecommunications Intern | June 2025 - August 2025\nGlenair Test | Engineering Intern | June 2024 - August 2024\nOBO | Project Modeling and Risk Analysis Intern | August 2023 - May 2024"
+  },
+  {
+    "objectID": "projects/03-project.html",
+    "href": "projects/03-project.html",
+    "title": "Project 3",
+    "section": "",
+    "text": "Bidirectional Soft Actuator Voltage Control System\nContext: Embedded Timing & Signal Measurement Circuit Adaptive deformation control using MOSFET switching and PWM voltage modulation\nYear: 2022-23\n\nProblem\nEnable selective and variable deformation in different regions of a bidirectional soft robotic actuator by controlling voltage delivery to multiple channels from a single power source through voltage manipulation.\n\n\nApproach\nDesigned a multi-channel power distribution circuit using N-channel MOSFETs as high-side and low-side switches\nImplemented pulse-width modulation (PWM) to produce different effective output voltages from a constant supply\nCreated an interface to independently modulate actuator regions, enabling tunable expansion patterns\nValidated actuator deformation response under variable duty cycle control\n\n\nResults\nAchieved smooth, fine-grain control of actuator shape and motion, allowing directional bending and surface profile changes without redesigning the actuator structure.\n\n\nMy contribution\nCircuit design, switching architecture, PWM control strategy, hardware testing\n\n\nTech\nN-channel MOSFETs, resistive gate networks, bench power supply, Arduino Microcontroller - PWM source, soft actuator material (silicone-based)\n\n\nKeywords\nsoft robotics, actuator control, voltage modulation, MOSFET switching, PWM signal processing\n\n\nDemonstration\n\n\n\nTinkercad Actuator Circuit Design - View 1\n\n\n\n\n\nSoft Actuator Circuit – View 2\n\n\n\n\n\nSoft Actuator Circuit – View 3"
+  },
+  {
+    "objectID": "projects/02-project.html",
+    "href": "projects/02-project.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "Context: Undergraduate research in optical systems and robotics deformation analysis\nYear: 2022 - present\n\n\n\nExisting 3D mapping methods like photogrammetry, LIDAR, and 3D scanning struggle with:\n\nAccurate real-time measurement of deformable soft robotics.\nHandling translucent or non-opaque surfaces\n\n\n\n\n\nDesigned a custom setup combining 2-axis motorized stage with laser displacement sensor\nIntegrated stepper motors controlled via a microcontroller\nBegan developing software to sync coordinate collection and motor control.\n\n\n\n\n\nSystem prototype under development of preliminary design.\nPresented research to American Physical Society (APS) March Conference\n\n\n\n\nProgrammed microcontroller for stepper motor control and sensor integration.\nCreated system schematic and poster visualization.\n\n\n\n2-axis stepper motor platform, Arduino microcontroller, Laser displacement sensor\n\n\n\nsoft robotics, real-time tracking, optical measurement, deformation mapping, embedded systems, computer vision\n\n\n\nPoster\nVideo\n\n\n\nAmerican Physical Society March Conference"
+  },
+  {
+    "objectID": "projects/02-project.html#problem",
+    "href": "projects/02-project.html#problem",
+    "title": "Project 2",
+    "section": "",
+    "text": "Existing 3D mapping methods like photogrammetry, LIDAR, and 3D scanning struggle with:\n\nAccurate real-time measurement of deformable soft robotics.\nHandling translucent or non-opaque surfaces"
+  },
+  {
+    "objectID": "projects/02-project.html#approach",
+    "href": "projects/02-project.html#approach",
+    "title": "Project 2",
+    "section": "",
+    "text": "Designed a custom setup combining 2-axis motorized stage with laser displacement sensor\nIntegrated stepper motors controlled via a microcontroller\nBegan developing software to sync coordinate collection and motor control."
+  },
+  {
+    "objectID": "projects/02-project.html#results",
+    "href": "projects/02-project.html#results",
+    "title": "Project 2",
+    "section": "",
+    "text": "System prototype under development of preliminary design.\nPresented research to American Physical Society (APS) March Conference"
+  },
+  {
+    "objectID": "projects/02-project.html#my-contribution",
+    "href": "projects/02-project.html#my-contribution",
+    "title": "Project 2",
+    "section": "",
+    "text": "Programmed microcontroller for stepper motor control and sensor integration.\nCreated system schematic and poster visualization."
+  },
+  {
+    "objectID": "projects/02-project.html#tech",
+    "href": "projects/02-project.html#tech",
+    "title": "Project 2",
+    "section": "",
+    "text": "2-axis stepper motor platform, Arduino microcontroller, Laser displacement sensor"
+  },
+  {
+    "objectID": "projects/02-project.html#keywords",
+    "href": "projects/02-project.html#keywords",
+    "title": "Project 2",
+    "section": "",
+    "text": "soft robotics, real-time tracking, optical measurement, deformation mapping, embedded systems, computer vision"
+  },
+  {
+    "objectID": "projects/02-project.html#demonstration",
+    "href": "projects/02-project.html#demonstration",
+    "title": "Project 2",
+    "section": "",
+    "text": "Poster\nVideo\n\n\n\nAmerican Physical Society March Conference"
+  },
+  {
+    "objectID": "projects/01-project.html",
+    "href": "projects/01-project.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "Reaction Time Game\nContext: Embedded Timing & Signal Measurement Circuit\nYear: 2024\n\nProblem\nDesign a low-cost, self-contained system to measure human reaction time with millisecond accuracy.\n\n\nApproach\nConstructed a 1 kHz clock signal using a 555 timer in astable mode\nDesigned input detection using discrete logic components\nImplemented display and timing readout for reaction measurement\n\n\nResults\nAchieved stable millisecond-level timing with repeatable reaction measurements across users.\n\n\nMy contribution\nHardware design, timing circuit calibration, data capture\n\n\nTech\n555 Timer IC, discrete logic gates, LEDs, push-button input, breadboard prototyping, oscilloscope\n\n\nKeywords\nembedded circuits, timing systems, measurement instrumentation\n\n\nDemonstration\nVideo 1\nVideo 2\nVideo 3"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is my project 1."
+  },
+  {
+    "objectID": "projects.html#project-1-reaction-time-game",
+    "href": "projects.html#project-1-reaction-time-game",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is my project 1."
+  },
+  {
+    "objectID": "projects.html#project-2-temporal-3d-mapping-of-deforming-translucent-surfaces",
+    "href": "projects.html#project-2-temporal-3d-mapping-of-deforming-translucent-surfaces",
+    "title": "Projects",
+    "section": "Project 2: Temporal 3D Mapping of Deforming Translucent Surfaces",
+    "text": "Project 2: Temporal 3D Mapping of Deforming Translucent Surfaces\nHere is my project 2."
+  },
+  {
+    "objectID": "projects.html#project-3-bidirectional-soft-actuator-voltage-control-system",
+    "href": "projects.html#project-3-bidirectional-soft-actuator-voltage-control-system",
+    "title": "Projects",
+    "section": "Project 3: Bidirectional Soft Actuator Voltage Control System",
+    "text": "Project 3: Bidirectional Soft Actuator Voltage Control System\nHere is my project 3."
+  },
+  {
+    "objectID": "projects.html#project-4-machine-learning-models-to-predict-tire-wear-pm2.5-emissions-from-emfac",
+    "href": "projects.html#project-4-machine-learning-models-to-predict-tire-wear-pm2.5-emissions-from-emfac",
+    "title": "Projects",
+    "section": "Project 4: Machine Learning Models to Predict Tire Wear PM2.5 Emissions from EMFAC",
+    "text": "Project 4: Machine Learning Models to Predict Tire Wear PM2.5 Emissions from EMFAC\nHere is my project 4."
   }
 ]

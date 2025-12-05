@@ -7,18 +7,30 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
+
+  page-footer:
+    right: "&copy; 2025, Christopher Le"
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    published-title: "last updated"
+    reference-location: document
+    code-fold: false
+    code-summary: ""
+    fontsize: 1.3em
+
 
 editor: visual
 
 execute:
   freeze: auto
+  
+
 
 
 

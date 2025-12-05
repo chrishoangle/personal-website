@@ -1,0 +1,44 @@
+---
+title: "Project 1"
+---
+
+# **Reaction Time Game**
+
+Context: Embedded Timing & Signal Measurement Circuit
+
+Year: 2024
+
+### **Problem**
+
+Design a low-cost, self-contained system to measure human reaction time with millisecond accuracy.
+
+### **Approach**
+
+Constructed a 1 kHz clock signal using a 555 timer in astable mode
+
+Designed input detection using discrete logic components
+
+Implemented display and timing readout for reaction measurement
+
+### **Results**
+
+Achieved stable millisecond-level timing with repeatable reaction measurements across users.
+
+### **My contribution**
+
+Hardware design, timing circuit calibration, data capture
+
+### **Tech**
+
+555 Timer IC, discrete logic gates, LEDs, push-button input, breadboard prototyping, oscilloscope
+
+### **Keywords**
+
+embedded circuits, timing systems, measurement instrumentation
+
+### **Demonstration**
+[Video 1](https://drive.google.com/file/d/1Pl9tkKFL6N_hqr3-1EiHxj-3FMflCZs7/view)
+
+[Video 2](https://drive.google.com/file/d/1m94PKSl4kIHkidtLv12E8jgCC-bdo3Xo/view)
+
+[Video 3](https://drive.google.com/file/d/1tuexYLMSHQp8Ztl5p2K6AN6qxUBQ53KT/view)

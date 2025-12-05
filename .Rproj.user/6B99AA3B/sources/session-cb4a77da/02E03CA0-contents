@@ -1,0 +1,48 @@
+---
+title: "Project 2"
+---
+
+# **Temporal 3D Mapping of Deforming Translucent Surfaces**
+
+- Context: Undergraduate research in optical systems and robotics deformation analysis
+- Year: 2022 - present
+
+## Problem
+
+Existing 3D mapping methods like photogrammetry, LIDAR, and 3D scanning struggle with:
+
+- Accurate real-time measurement of deformable soft robotics.
+- Handling translucent or non-opaque surfaces
+
+## Approach
+
+- Designed a custom setup combining 2-axis motorized stage with laser displacement sensor
+- Integrated stepper motors controlled via a microcontroller
+- Began developing software to sync coordinate collection and motor control.
+
+## Results
+
+- System prototype under development of preliminary design.
+- Presented research to American Physical Society (APS) March Conference
+
+## My contribution
+
+Programmed microcontroller for stepper motor control and sensor integration. 
+
+Created system schematic and poster visualization.
+
+## Tech
+
+2-axis stepper motor platform, Arduino microcontroller, Laser displacement sensor
+
+## Keywords
+
+soft robotics, real-time tracking, optical measurement, deformation mapping, embedded systems, computer vision
+
+## Demonstration
+
+[Poster](https://docs.google.com/presentation/d/1Wi_8c68XXOsP-jlddQP7AF0il1A3Q4jp/edit?slide=id.p1#slide=id.p1)
+
+[Video](https://drive.google.com/file/d/1s_LnXZyJhrpxAqsUOEywg8vc-BbNPw9T/view)
+
+![American Physical Society March Conference](chris_poster.png)

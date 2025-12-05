@@ -1,0 +1,14 @@
+{
+  "hash": "d92619216331860676f153617ffc9d2c",
+  "result": {
+    "markdown": "---\ntitle: \"Projects\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 3\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 4\n```\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(20)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n [1] 0.587163930 0.347024419 0.009376965 0.244886987 0.502669568 0.456143748\n [7] 0.346923352 0.963997428 0.260805229 0.636288260 0.278191780 0.622395111\n[13] 0.096039238 0.747796063 0.235222392 0.423612907 0.674461277 0.562396172\n[19] 0.205418755 0.469026999\n```\n:::\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

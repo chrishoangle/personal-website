@@ -1,9 +1,9 @@
 {
     "id": "86D26B9A",
-    "path": "~/Desktop/personal-website/about.qmd",
-    "project_path": "about.qmd",
+    "path": "~/Desktop/personal-website/projects.qmd",
+    "project_path": "projects.qmd",
     "type": "quarto_markdown",
-    "hash": "2117626891",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1764899309776.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "56:0",
-        "cursorPosition": "7,5",
+        "cursorPosition": "12,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1764901244,
+    "lastKnownWriteTime": 1764915069,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1764901244582,
+    "last_content_update": 1764915069592,
     "read_only": false,
     "read_only_alternatives": []
 }

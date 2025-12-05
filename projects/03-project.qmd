@@ -1,0 +1,47 @@
+---
+title: "Project 3"
+---
+
+# **Bidirectional Soft Actuator Voltage Control System**
+
+Context: Embedded Timing & Signal Measurement Circuit Adaptive deformation control using MOSFET switching and PWM voltage modulation
+
+Year: 2022-23
+
+### **Problem**
+
+Enable selective and variable deformation in different regions of a bidirectional soft robotic actuator by controlling voltage delivery to multiple channels from a single power source through voltage manipulation.
+
+### **Approach**
+
+Designed a multi-channel power distribution circuit using N-channel MOSFETs as high-side and low-side switches
+
+Implemented pulse-width modulation (PWM) to produce different effective output voltages from a constant supply
+
+Created an interface to independently modulate actuator regions, enabling tunable expansion patterns
+
+Validated actuator deformation response under variable duty cycle control
+
+### **Results**
+
+Achieved smooth, fine-grain control of actuator shape and motion, allowing directional bending and surface profile changes without redesigning the actuator structure.
+
+### **My contribution**
+
+Circuit design, switching architecture, PWM control strategy, hardware testing
+
+### **Tech**
+
+N-channel MOSFETs, resistive gate networks, bench power supply, Arduino Microcontroller - PWM source, soft actuator material (silicone-based)
+
+### **Keywords**
+
+soft robotics, actuator control, voltage modulation, MOSFET switching, PWM signal processing
+
+### **Demonstration**
+
+![Tinkercad Actuator Circuit Design - View 1](circuit.png) 
+
+![Soft Actuator Circuit -- View 2](pic1.png)
+
+![Soft Actuator Circuit -- View 3](pic2.png)
